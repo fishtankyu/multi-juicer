@@ -1,3 +1,4 @@
+#Disabled: showversionnumber, showgithublinks, showhints, hackinginstructor Enabled: showFlagInNotifications
 juiceShop:
   config: |
     application:
